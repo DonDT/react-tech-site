@@ -30,7 +30,8 @@ export default function SingleProductPage() {
                 <div className="row">
                   <div className="col-10 mx-auto col-sm-8 col-md-6 my-3">
                     <img
-                      src={`../${image}`}
+                      //src={`../${image}`}
+                      src={image}
                       alt="single product"
                       className="img-fluid"
                     />
