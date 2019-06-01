@@ -37,7 +37,7 @@ class ProductProvider extends Component {
       .catch(console.error);
     //from contentful items
 
-    //this.setProducts(items);
+    // this.setProducts(items);
   }
 
   //set products
